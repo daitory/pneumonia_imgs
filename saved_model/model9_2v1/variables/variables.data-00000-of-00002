@@ -1,0 +1,1880 @@
+éÎçv!)
+≥
+layer_with_weights-0
+layer-0
+layer-1
+layer-2
+layer_with_weights-1
+layer-3
+layer_with_weights-2
+layer-4
+layer_with_weights-3
+layer-5
+layer_with_weights-4
+layer-6
+layer-7
+	layer-8
+
+layer_with_weights-5
+
+layer-9
+layer_with_weights-6
+layer-10
+layer_with_weights-7
+layer-11
+layer_with_weights-8
+layer-12
+layer_with_weights-9
+layer-13
+layer_with_weights-10
+layer-14
+layer-15
+layer-16
+layer_with_weights-11
+layer-17
+layer_with_weights-12
+layer-18
+layer_with_weights-13
+layer-19
+layer_with_weights-14
+layer-20
+layer_with_weights-15
+layer-21
+layer_with_weights-16
+layer-22
+layer_with_weights-17
+layer-23
+layer_with_weights-18
+layer-24
+layer-25
+layer-26
+layer_with_weights-19
+layer-27
+layer_with_weights-20
+layer-28
+layer_with_weights-21
+layer-29
+layer_with_weights-22
+layer-30
+ layer_with_weights-23
+ layer-31
+!layer_with_weights-24
+!layer-32
+"layer_with_weights-25
+"layer-33
+#layer_with_weights-26
+#layer-34
+$layer_with_weights-27
+$layer-35
+%layer_with_weights-28
+%layer-36
+&layer-37
+'layer-38
+(layer-39
+)layer_with_weights-29
+)layer-40
+*layer-41
++layer_with_weights-30
++layer-42
+,layer-43
+-layer_with_weights-31
+-layer-44
+.	optimizer
+/trainable_variables
+0	variables
+1regularization_losses
+2	keras_api
+3
+signatures
+h
+
+4kernel
+5bias
+6trainable_variables
+7	variables
+8regularization_losses
+9	keras_api
+R
+:trainable_variables
+;	variables
+<regularization_losses
+=	keras_api
+R
+>trainable_variables
+?	variables
+@regularization_losses
+A	keras_api
+h
+
+Bkernel
+Cbias
+Dtrainable_variables
+E	variables
+Fregularization_losses
+G	keras_api
+ó
+Haxis
+	Igamma
+Jbeta
+Kmoving_mean
+Lmoving_variance
+Mtrainable_variables
+N	variables
+Oregularization_losses
+P	keras_api
+h
+
+Qkernel
+Rbias
+Strainable_variables
+T	variables
+Uregularization_losses
+V	keras_api
+ó
+Waxis
+	Xgamma
+Ybeta
+Zmoving_mean
+[moving_variance
+\trainable_variables
+]	variables
+^regularization_losses
+_	keras_api
+R
+`trainable_variables
+a	variables
+bregularization_losses
+c	keras_api
+R
+dtrainable_variables
+e	variables
+fregularization_losses
+g	keras_api
+h
+
+hkernel
+ibias
+jtrainable_variables
+k	variables
+lregularization_losses
+m	keras_api
+ó
+naxis
+	ogamma
+pbeta
+qmoving_mean
+rmoving_variance
+strainable_variables
+t	variables
+uregularization_losses
+v	keras_api
+h
+
+wkernel
+xbias
+ytrainable_variables
+z	variables
+{regularization_losses
+|	keras_api
+ù
+}axis
+	~gamma
+beta
+Ämoving_mean
+Åmoving_variance
+Çtrainable_variables
+É	variables
+Ñregularization_losses
+Ö	keras_api
+n
+Ükernel
+	ábias
+àtrainable_variables
+â	variables
+äregularization_losses
+ã	keras_api
+†
+	åaxis
+
+çgamma
+	ébeta
+èmoving_mean
+êmoving_variance
+ëtrainable_variables
+í	variables
+ìregularization_losses
+î	keras_api
+V
+ïtrainable_variables
+ñ	variables
+óregularization_losses
+ò	keras_api
+V
+ôtrainable_variables
+ö	variables
+õregularization_losses
+ú	keras_api
+n
+ùkernel
+	ûbias
+ütrainable_variables
+†	variables
+°regularization_losses
+¢	keras_api
+†
+	£axis
+
+§gamma
+	•beta
+¶moving_mean
+ßmoving_variance
+®trainable_variables
+©	variables
+™regularization_losses
+´	keras_api
+n
+¨kernel
+	≠bias
+Ætrainable_variables
+Ø	variables
+∞regularization_losses
+±	keras_api
+†
+	≤axis
+
+≥gamma
+	¥beta
+µmoving_mean
+∂moving_variance
+∑trainable_variables
+∏	variables
+πregularization_losses
+∫	keras_api
+n
+ªkernel
+	ºbias
+Ωtrainable_variables
+æ	variables
+øregularization_losses
+¿	keras_api
+†
+	¡axis
+
+¬gamma
+	√beta
+ƒmoving_mean
+≈moving_variance
+∆trainable_variables
+«	variables
+»regularization_losses
+…	keras_api
+n
+ kernel
+	Àbias
+Ãtrainable_variables
+Õ	variables
+Œregularization_losses
+œ	keras_api
+†
+	–axis
+
+—gamma
+	“beta
+”moving_mean
+‘moving_variance
+’trainable_variables
+÷	variables
+◊regularization_losses
+ÿ	keras_api
+V
+Ÿtrainable_variables
+⁄	variables
+€regularization_losses
+‹	keras_api
+V
+›trainable_variables
+ﬁ	variables
+ﬂregularization_losses
+‡	keras_api
+n
+·kernel
+	‚bias
+„trainable_variables
+‰	variables
+Âregularization_losses
+Ê	keras_api
+†
+	Áaxis
+
+Ëgamma
+	Èbeta
+Ímoving_mean
+Îmoving_variance
+Ïtrainable_variables
+Ì	variables
+Óregularization_losses
+Ô	keras_api
+n
+kernel
+	Òbias
+Útrainable_variables
+Û	variables
+Ùregularization_losses
+ı	keras_api
+†
+	ˆaxis
+
+˜gamma
+	¯beta
+˘moving_mean
+˙moving_variance
+˚trainable_variables
+¸	variables
+˝regularization_losses
+˛	keras_api
+n
+ˇkernel
+	Äbias
+Åtrainable_variables
+Ç	variables
+Éregularization_losses
+Ñ	keras_api
+†
+	Öaxis
+
+Ügamma
+	ábeta
+àmoving_mean
+âmoving_variance
+ätrainable_variables
+ã	variables
+åregularization_losses
+ç	keras_api
+n
+ékernel
+	èbias
+êtrainable_variables
+ë	variables
+íregularization_losses
+ì	keras_api
+†
+	îaxis
+
+ïgamma
+	ñbeta
+ómoving_mean
+òmoving_variance
+ôtrainable_variables
+ö	variables
+õregularization_losses
+ú	keras_api
+n
+ùkernel
+	ûbias
+ütrainable_variables
+†	variables
+°regularization_losses
+¢	keras_api
+†
+	£axis
+
+§gamma
+	•beta
+¶moving_mean
+ßmoving_variance
+®trainable_variables
+©	variables
+™regularization_losses
+´	keras_api
+V
+¨trainable_variables
+≠	variables
+Æregularization_losses
+Ø	keras_api
+V
+∞trainable_variables
+±	variables
+≤regularization_losses
+≥	keras_api
+V
+¥trainable_variables
+µ	variables
+∂regularization_losses
+∑	keras_api
+n
+∏kernel
+	πbias
+∫trainable_variables
+ª	variables
+ºregularization_losses
+Ω	keras_api
+V
+ætrainable_variables
+ø	variables
+¿regularization_losses
+¡	keras_api
+n
+¬kernel
+	√bias
+ƒtrainable_variables
+≈	variables
+∆regularization_losses
+«	keras_api
+V
+»trainable_variables
+…	variables
+ regularization_losses
+À	keras_api
+n
+Ãkernel
+	Õbias
+Œtrainable_variables
+œ	variables
+–regularization_losses
+—	keras_api
+:
+	“iter
+
+”decay
+‘learning_rate
+’momentum
+§
+40
+51
+B2
+C3
+I4
+J5
+Q6
+R7
+X8
+Y9
+h10
+i11
+o12
+p13
+w14
+x15
+~16
+17
+Ü18
+á19
+ç20
+é21
+ù22
+û23
+§24
+•25
+¨26
+≠27
+≥28
+¥29
+ª30
+º31
+¬32
+√33
+ 34
+À35
+—36
+“37
+·38
+‚39
+Ë40
+È41
+42
+Ò43
+˜44
+¯45
+ˇ46
+Ä47
+Ü48
+á49
+é50
+è51
+ï52
+ñ53
+ù54
+û55
+§56
+•57
+∏58
+π59
+¬60
+√61
+Ã62
+Õ63
+ö
+40
+51
+B2
+C3
+I4
+J5
+K6
+L7
+Q8
+R9
+X10
+Y11
+Z12
+[13
+h14
+i15
+o16
+p17
+q18
+r19
+w20
+x21
+~22
+23
+Ä24
+Å25
+Ü26
+á27
+ç28
+é29
+è30
+ê31
+ù32
+û33
+§34
+•35
+¶36
+ß37
+¨38
+≠39
+≥40
+¥41
+µ42
+∂43
+ª44
+º45
+¬46
+√47
+ƒ48
+≈49
+ 50
+À51
+—52
+“53
+”54
+‘55
+·56
+‚57
+Ë58
+È59
+Í60
+Î61
+62
+Ò63
+˜64
+¯65
+˘66
+˙67
+ˇ68
+Ä69
+Ü70
+á71
+à72
+â73
+é74
+è75
+ï76
+ñ77
+ó78
+ò79
+ù80
+û81
+§82
+•83
+¶84
+ß85
+∏86
+π87
+¬88
+√89
+Ã90
+Õ91
+ 
+≤
+÷metrics
+◊layer_metrics
+/trainable_variables
+0	variables
+ÿnon_trainable_variables
+Ÿlayers
+ ⁄layer_regularization_losses
+1regularization_losses
+ 
+\Z
+VARIABLE_VALUEconv2d_30/kernel6layer_with_weights-0/kernel/.ATTRIBUTES/VARIABLE_VALUE
+XV
+VARIABLE_VALUEconv2d_30/bias4layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+40
+51
+
+40
+51
+ 
+≤
+€metrics
+‹layer_metrics
+6trainable_variables
+7	variables
+›non_trainable_variables
+ﬁlayers
+ ﬂlayer_regularization_losses
+8regularization_losses
+ 
+ 
+ 
+≤
+‡metrics
+·layer_metrics
+:trainable_variables
+;	variables
+‚non_trainable_variables
+„layers
+ ‰layer_regularization_losses
+<regularization_losses
+ 
+ 
+ 
+≤
+Âmetrics
+Êlayer_metrics
+>trainable_variables
+?	variables
+Ánon_trainable_variables
+Ëlayers
+ Èlayer_regularization_losses
+@regularization_losses
+\Z
+VARIABLE_VALUEconv2d_31/kernel6layer_with_weights-1/kernel/.ATTRIBUTES/VARIABLE_VALUE
+XV
+VARIABLE_VALUEconv2d_31/bias4layer_with_weights-1/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+B0
+C1
+
+B0
+C1
+ 
+≤
+Ímetrics
+Îlayer_metrics
+Dtrainable_variables
+E	variables
+Ïnon_trainable_variables
+Ìlayers
+ Ólayer_regularization_losses
+Fregularization_losses
+ 
+ge
+VARIABLE_VALUEbatch_normalization_28/gamma5layer_with_weights-2/gamma/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEbatch_normalization_28/beta4layer_with_weights-2/beta/.ATTRIBUTES/VARIABLE_VALUE
+sq
+VARIABLE_VALUE"batch_normalization_28/moving_mean;layer_with_weights-2/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+{y
+VARIABLE_VALUE&batch_normalization_28/moving_variance?layer_with_weights-2/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+I0
+J1
+
+I0
+J1
+K2
+L3
+ 
+≤
+Ômetrics
+layer_metrics
+Mtrainable_variables
+N	variables
+Ònon_trainable_variables
+Úlayers
+ Ûlayer_regularization_losses
+Oregularization_losses
+\Z
+VARIABLE_VALUEconv2d_32/kernel6layer_with_weights-3/kernel/.ATTRIBUTES/VARIABLE_VALUE
+XV
+VARIABLE_VALUEconv2d_32/bias4layer_with_weights-3/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+Q0
+R1
+
+Q0
+R1
+ 
+≤
+Ùmetrics
+ılayer_metrics
+Strainable_variables
+T	variables
+ˆnon_trainable_variables
+˜layers
+ ¯layer_regularization_losses
+Uregularization_losses
+ 
+ge
+VARIABLE_VALUEbatch_normalization_29/gamma5layer_with_weights-4/gamma/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEbatch_normalization_29/beta4layer_with_weights-4/beta/.ATTRIBUTES/VARIABLE_VALUE
+sq
+VARIABLE_VALUE"batch_normalization_29/moving_mean;layer_with_weights-4/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+{y
+VARIABLE_VALUE&batch_normalization_29/moving_variance?layer_with_weights-4/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+X0
+Y1
+
+X0
+Y1
+Z2
+[3
+ 
+≤
+˘metrics
+˙layer_metrics
+\trainable_variables
+]	variables
+˚non_trainable_variables
+¸layers
+ ˝layer_regularization_losses
+^regularization_losses
+ 
+ 
+ 
+≤
+˛metrics
+ˇlayer_metrics
+`trainable_variables
+a	variables
+Änon_trainable_variables
+Ålayers
+ Çlayer_regularization_losses
+bregularization_losses
+ 
+ 
+ 
+≤
+Émetrics
+Ñlayer_metrics
+dtrainable_variables
+e	variables
+Önon_trainable_variables
+Ülayers
+ álayer_regularization_losses
+fregularization_losses
+\Z
+VARIABLE_VALUEconv2d_33/kernel6layer_with_weights-5/kernel/.ATTRIBUTES/VARIABLE_VALUE
+XV
+VARIABLE_VALUEconv2d_33/bias4layer_with_weights-5/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+h0
+i1
+
+h0
+i1
+ 
+≤
+àmetrics
+âlayer_metrics
+jtrainable_variables
+k	variables
+änon_trainable_variables
+ãlayers
+ ålayer_regularization_losses
+lregularization_losses
+ 
+ge
+VARIABLE_VALUEbatch_normalization_30/gamma5layer_with_weights-6/gamma/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEbatch_normalization_30/beta4layer_with_weights-6/beta/.ATTRIBUTES/VARIABLE_VALUE
+sq
+VARIABLE_VALUE"batch_normalization_30/moving_mean;layer_with_weights-6/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+{y
+VARIABLE_VALUE&batch_normalization_30/moving_variance?layer_with_weights-6/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+o0
+p1
+
+o0
+p1
+q2
+r3
+ 
+≤
+çmetrics
+élayer_metrics
+strainable_variables
+t	variables
+ènon_trainable_variables
+êlayers
+ ëlayer_regularization_losses
+uregularization_losses
+\Z
+VARIABLE_VALUEconv2d_34/kernel6layer_with_weights-7/kernel/.ATTRIBUTES/VARIABLE_VALUE
+XV
+VARIABLE_VALUEconv2d_34/bias4layer_with_weights-7/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+w0
+x1
+
+w0
+x1
+ 
+≤
+ímetrics
+ìlayer_metrics
+ytrainable_variables
+z	variables
+înon_trainable_variables
+ïlayers
+ ñlayer_regularization_losses
+{regularization_losses
+ 
+ge
+VARIABLE_VALUEbatch_normalization_31/gamma5layer_with_weights-8/gamma/.ATTRIBUTES/VARIABLE_VALUE
+ec
+VARIABLE_VALUEbatch_normalization_31/beta4layer_with_weights-8/beta/.ATTRIBUTES/VARIABLE_VALUE
+sq
+VARIABLE_VALUE"batch_normalization_31/moving_mean;layer_with_weights-8/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+{y
+VARIABLE_VALUE&batch_normalization_31/moving_variance?layer_with_weights-8/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+~0
+1
+
+~0
+1
+Ä2
+Å3
+ 
+µ
+ómetrics
+òlayer_metrics
+Çtrainable_variables
+É	variables
+ônon_trainable_variables
+ölayers
+ õlayer_regularization_losses
+Ñregularization_losses
+\Z
+VARIABLE_VALUEconv2d_35/kernel6layer_with_weights-9/kernel/.ATTRIBUTES/VARIABLE_VALUE
+XV
+VARIABLE_VALUEconv2d_35/bias4layer_with_weights-9/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+Ü0
+á1
+
+Ü0
+á1
+ 
+µ
+úmetrics
+ùlayer_metrics
+àtrainable_variables
+â	variables
+ûnon_trainable_variables
+ülayers
+ †layer_regularization_losses
+äregularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_32/gamma6layer_with_weights-10/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_32/beta5layer_with_weights-10/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_32/moving_mean<layer_with_weights-10/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_32/moving_variance@layer_with_weights-10/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+ç0
+é1
+ 
+ç0
+é1
+è2
+ê3
+ 
+µ
+°metrics
+¢layer_metrics
+ëtrainable_variables
+í	variables
+£non_trainable_variables
+§layers
+ •layer_regularization_losses
+ìregularization_losses
+ 
+ 
+ 
+µ
+¶metrics
+ßlayer_metrics
+ïtrainable_variables
+ñ	variables
+®non_trainable_variables
+©layers
+ ™layer_regularization_losses
+óregularization_losses
+ 
+ 
+ 
+µ
+´metrics
+¨layer_metrics
+ôtrainable_variables
+ö	variables
+≠non_trainable_variables
+Ælayers
+ Ølayer_regularization_losses
+õregularization_losses
+][
+VARIABLE_VALUEconv2d_36/kernel7layer_with_weights-11/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_36/bias5layer_with_weights-11/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+ù0
+û1
+
+ù0
+û1
+ 
+µ
+∞metrics
+±layer_metrics
+ütrainable_variables
+†	variables
+≤non_trainable_variables
+≥layers
+ ¥layer_regularization_losses
+°regularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_33/gamma6layer_with_weights-12/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_33/beta5layer_with_weights-12/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_33/moving_mean<layer_with_weights-12/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_33/moving_variance@layer_with_weights-12/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+§0
+•1
+ 
+§0
+•1
+¶2
+ß3
+ 
+µ
+µmetrics
+∂layer_metrics
+®trainable_variables
+©	variables
+∑non_trainable_variables
+∏layers
+ πlayer_regularization_losses
+™regularization_losses
+][
+VARIABLE_VALUEconv2d_37/kernel7layer_with_weights-13/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_37/bias5layer_with_weights-13/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+¨0
+≠1
+
+¨0
+≠1
+ 
+µ
+∫metrics
+ªlayer_metrics
+Ætrainable_variables
+Ø	variables
+ºnon_trainable_variables
+Ωlayers
+ ælayer_regularization_losses
+∞regularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_34/gamma6layer_with_weights-14/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_34/beta5layer_with_weights-14/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_34/moving_mean<layer_with_weights-14/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_34/moving_variance@layer_with_weights-14/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+≥0
+¥1
+ 
+≥0
+¥1
+µ2
+∂3
+ 
+µ
+ømetrics
+¿layer_metrics
+∑trainable_variables
+∏	variables
+¡non_trainable_variables
+¬layers
+ √layer_regularization_losses
+πregularization_losses
+][
+VARIABLE_VALUEconv2d_38/kernel7layer_with_weights-15/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_38/bias5layer_with_weights-15/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+ª0
+º1
+
+ª0
+º1
+ 
+µ
+ƒmetrics
+≈layer_metrics
+Ωtrainable_variables
+æ	variables
+∆non_trainable_variables
+«layers
+ »layer_regularization_losses
+øregularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_35/gamma6layer_with_weights-16/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_35/beta5layer_with_weights-16/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_35/moving_mean<layer_with_weights-16/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_35/moving_variance@layer_with_weights-16/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+¬0
+√1
+ 
+¬0
+√1
+ƒ2
+≈3
+ 
+µ
+…metrics
+ layer_metrics
+∆trainable_variables
+«	variables
+Ànon_trainable_variables
+Ãlayers
+ Õlayer_regularization_losses
+»regularization_losses
+][
+VARIABLE_VALUEconv2d_39/kernel7layer_with_weights-17/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_39/bias5layer_with_weights-17/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+ 0
+À1
+
+ 0
+À1
+ 
+µ
+Œmetrics
+œlayer_metrics
+Ãtrainable_variables
+Õ	variables
+–non_trainable_variables
+—layers
+ “layer_regularization_losses
+Œregularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_36/gamma6layer_with_weights-18/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_36/beta5layer_with_weights-18/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_36/moving_mean<layer_with_weights-18/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_36/moving_variance@layer_with_weights-18/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+—0
+“1
+ 
+—0
+“1
+”2
+‘3
+ 
+µ
+”metrics
+‘layer_metrics
+’trainable_variables
+÷	variables
+’non_trainable_variables
+÷layers
+ ◊layer_regularization_losses
+◊regularization_losses
+ 
+ 
+ 
+µ
+ÿmetrics
+Ÿlayer_metrics
+Ÿtrainable_variables
+⁄	variables
+⁄non_trainable_variables
+€layers
+ ‹layer_regularization_losses
+€regularization_losses
+ 
+ 
+ 
+µ
+›metrics
+ﬁlayer_metrics
+›trainable_variables
+ﬁ	variables
+ﬂnon_trainable_variables
+‡layers
+ ·layer_regularization_losses
+ﬂregularization_losses
+][
+VARIABLE_VALUEconv2d_40/kernel7layer_with_weights-19/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_40/bias5layer_with_weights-19/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+·0
+‚1
+
+·0
+‚1
+ 
+µ
+‚metrics
+„layer_metrics
+„trainable_variables
+‰	variables
+‰non_trainable_variables
+Âlayers
+ Êlayer_regularization_losses
+Âregularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_37/gamma6layer_with_weights-20/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_37/beta5layer_with_weights-20/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_37/moving_mean<layer_with_weights-20/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_37/moving_variance@layer_with_weights-20/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+Ë0
+È1
+ 
+Ë0
+È1
+Í2
+Î3
+ 
+µ
+Ámetrics
+Ëlayer_metrics
+Ïtrainable_variables
+Ì	variables
+Ènon_trainable_variables
+Ílayers
+ Îlayer_regularization_losses
+Óregularization_losses
+][
+VARIABLE_VALUEconv2d_41/kernel7layer_with_weights-21/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_41/bias5layer_with_weights-21/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+0
+Ò1
+
+0
+Ò1
+ 
+µ
+Ïmetrics
+Ìlayer_metrics
+Útrainable_variables
+Û	variables
+Ónon_trainable_variables
+Ôlayers
+ layer_regularization_losses
+Ùregularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_38/gamma6layer_with_weights-22/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_38/beta5layer_with_weights-22/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_38/moving_mean<layer_with_weights-22/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_38/moving_variance@layer_with_weights-22/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+˜0
+¯1
+ 
+˜0
+¯1
+˘2
+˙3
+ 
+µ
+Òmetrics
+Úlayer_metrics
+˚trainable_variables
+¸	variables
+Ûnon_trainable_variables
+Ùlayers
+ ılayer_regularization_losses
+˝regularization_losses
+][
+VARIABLE_VALUEconv2d_42/kernel7layer_with_weights-23/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_42/bias5layer_with_weights-23/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+ˇ0
+Ä1
+
+ˇ0
+Ä1
+ 
+µ
+ˆmetrics
+˜layer_metrics
+Åtrainable_variables
+Ç	variables
+¯non_trainable_variables
+˘layers
+ ˙layer_regularization_losses
+Éregularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_39/gamma6layer_with_weights-24/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_39/beta5layer_with_weights-24/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_39/moving_mean<layer_with_weights-24/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_39/moving_variance@layer_with_weights-24/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+Ü0
+á1
+ 
+Ü0
+á1
+à2
+â3
+ 
+µ
+˚metrics
+¸layer_metrics
+ätrainable_variables
+ã	variables
+˝non_trainable_variables
+˛layers
+ ˇlayer_regularization_losses
+åregularization_losses
+][
+VARIABLE_VALUEconv2d_43/kernel7layer_with_weights-25/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_43/bias5layer_with_weights-25/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+é0
+è1
+
+é0
+è1
+ 
+µ
+Ämetrics
+Ålayer_metrics
+êtrainable_variables
+ë	variables
+Çnon_trainable_variables
+Élayers
+ Ñlayer_regularization_losses
+íregularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_40/gamma6layer_with_weights-26/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_40/beta5layer_with_weights-26/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_40/moving_mean<layer_with_weights-26/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_40/moving_variance@layer_with_weights-26/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+ï0
+ñ1
+ 
+ï0
+ñ1
+ó2
+ò3
+ 
+µ
+Ömetrics
+Ülayer_metrics
+ôtrainable_variables
+ö	variables
+ánon_trainable_variables
+àlayers
+ âlayer_regularization_losses
+õregularization_losses
+][
+VARIABLE_VALUEconv2d_44/kernel7layer_with_weights-27/kernel/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUEconv2d_44/bias5layer_with_weights-27/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+ù0
+û1
+
+ù0
+û1
+ 
+µ
+ämetrics
+ãlayer_metrics
+ütrainable_variables
+†	variables
+ånon_trainable_variables
+çlayers
+ élayer_regularization_losses
+°regularization_losses
+ 
+hf
+VARIABLE_VALUEbatch_normalization_41/gamma6layer_with_weights-28/gamma/.ATTRIBUTES/VARIABLE_VALUE
+fd
+VARIABLE_VALUEbatch_normalization_41/beta5layer_with_weights-28/beta/.ATTRIBUTES/VARIABLE_VALUE
+tr
+VARIABLE_VALUE"batch_normalization_41/moving_mean<layer_with_weights-28/moving_mean/.ATTRIBUTES/VARIABLE_VALUE
+|z
+VARIABLE_VALUE&batch_normalization_41/moving_variance@layer_with_weights-28/moving_variance/.ATTRIBUTES/VARIABLE_VALUE
+
+§0
+•1
+ 
+§0
+•1
+¶2
+ß3
+ 
+µ
+èmetrics
+êlayer_metrics
+®trainable_variables
+©	variables
+ënon_trainable_variables
+ílayers
+ ìlayer_regularization_losses
+™regularization_losses
+ 
+ 
+ 
+µ
+îmetrics
+ïlayer_metrics
+¨trainable_variables
+≠	variables
+ñnon_trainable_variables
+ólayers
+ òlayer_regularization_losses
+Æregularization_losses
+ 
+ 
+ 
+µ
+ômetrics
+ölayer_metrics
+∞trainable_variables
+±	variables
+õnon_trainable_variables
+úlayers
+ ùlayer_regularization_losses
+≤regularization_losses
+ 
+ 
+ 
+µ
+ûmetrics
+ülayer_metrics
+¥trainable_variables
+µ	variables
+†non_trainable_variables
+°layers
+ ¢layer_regularization_losses
+∂regularization_losses
+[Y
+VARIABLE_VALUEdense_6/kernel7layer_with_weights-29/kernel/.ATTRIBUTES/VARIABLE_VALUE
+WU
+VARIABLE_VALUEdense_6/bias5layer_with_weights-29/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+∏0
+π1
+
+∏0
+π1
+ 
+µ
+£metrics
+§layer_metrics
+∫trainable_variables
+ª	variables
+•non_trainable_variables
+¶layers
+ ßlayer_regularization_losses
+ºregularization_losses
+ 
+ 
+ 
+µ
+®metrics
+©layer_metrics
+ætrainable_variables
+ø	variables
+™non_trainable_variables
+´layers
+ ¨layer_regularization_losses
+¿regularization_losses
+[Y
+VARIABLE_VALUEdense_7/kernel7layer_with_weights-30/kernel/.ATTRIBUTES/VARIABLE_VALUE
+WU
+VARIABLE_VALUEdense_7/bias5layer_with_weights-30/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+¬0
+√1
+
+¬0
+√1
+ 
+µ
+≠metrics
+Ælayer_metrics
+ƒtrainable_variables
+≈	variables
+Ønon_trainable_variables
+∞layers
+ ±layer_regularization_losses
+∆regularization_losses
+ 
+ 
+ 
+µ
+≤metrics
+≥layer_metrics
+»trainable_variables
+…	variables
+¥non_trainable_variables
+µlayers
+ ∂layer_regularization_losses
+ regularization_losses
+[Y
+VARIABLE_VALUEdense_8/kernel7layer_with_weights-31/kernel/.ATTRIBUTES/VARIABLE_VALUE
+WU
+VARIABLE_VALUEdense_8/bias5layer_with_weights-31/bias/.ATTRIBUTES/VARIABLE_VALUE
+
+Ã0
+Õ1
+
+Ã0
+Õ1
+ 
+µ
+∑metrics
+∏layer_metrics
+Œtrainable_variables
+œ	variables
+πnon_trainable_variables
+∫layers
+ ªlayer_regularization_losses
+–regularization_losses
+GE
+VARIABLE_VALUESGD/iter)optimizer/iter/.ATTRIBUTES/VARIABLE_VALUE
+IG
+VARIABLE_VALUE	SGD/decay*optimizer/decay/.ATTRIBUTES/VARIABLE_VALUE
+YW
+VARIABLE_VALUESGD/learning_rate2optimizer/learning_rate/.ATTRIBUTES/VARIABLE_VALUE
+OM
+VARIABLE_VALUESGD/momentum-optimizer/momentum/.ATTRIBUTES/VARIABLE_VALUE
+
+º0
+Ω1
+ 
+Ï
+K0
+L1
+Z2
+[3
+q4
+r5
+Ä6
+Å7
+è8
+ê9
+¶10
+ß11
+µ12
+∂13
+ƒ14
+≈15
+”16
+‘17
+Í18
+Î19
+˘20
+˙21
+à22
+â23
+ó24
+ò25
+¶26
+ß27
+ﬁ
+0
+1
+2
+3
+4
+5
+6
+7
+	8
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+ 31
+!32
+"33
+#34
+$35
+%36
+&37
+'38
+(39
+)40
+*41
++42
+,43
+-44
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+K0
+L1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Z0
+[1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+q0
+r1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ä0
+Å1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+è0
+ê1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+¶0
+ß1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+µ0
+∂1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ƒ0
+≈1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+”0
+‘1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Í0
+Î1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+˘0
+˙1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+à0
+â1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ó0
+ò1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+¶0
+ß1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+
+ætotal
+
+øcount
+¿	variables
+¡	keras_api
+I
+
+¬total
+
+√count
+ƒ
+_fn_kwargs
+≈	variables
+∆	keras_api
+OM
+VARIABLE_VALUEtotal4keras_api/metrics/0/total/.ATTRIBUTES/VARIABLE_VALUE
+OM
+VARIABLE_VALUEcount4keras_api/metrics/0/count/.ATTRIBUTES/VARIABLE_VALUE
+
+æ0
+ø1
+
+¿	variables
+OM
+VARIABLE_VALUEtotal4keras_api/metrics/1/total/.ATTRIBUTES/VARIABLE_VALUE
+OM
+VARIABLE_VALUEcount4keras_api/metrics/1/count/.ATTRIBUTES/VARIABLE_VALUE
+ 
+
+¬0
+√1
+
+≈	variables
