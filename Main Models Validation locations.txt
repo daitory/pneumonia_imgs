@@ -1,0 +1,37 @@
+Files with the last models run:
+
+1)Validated_pneumonia224_final_version_deep_cnn_v2.ipynb
+
+models used:
+
+a)saved_model/model224_gsearchv4 (Not finalist <- on the github repo)
+
+b)saved_model/model224_gsearchv1 (Our Best Model <- Champion Challenger <- on the github repo)
+___________________________________________________________________________________________________
+
+2)Validated GB_KNN_WO_denoise_v2.ipynb (Gradient Boosting and KNN without denoise)
+
+models used:
+
+a)gradient_boosting.pkl (the one and only Gradient boosting <- on the github repo)
+
+b)KNN1.pkl             (the less poweful KNN<-delivered by email)
+
+c)KNN2.pkl	     (Our Second Best Model<-delivered by email)
+
+______________________________________________________________________________________________________
+
+3)Validated_Image_Processing and Random Forest
+
+models used:
+
+a) Random Forest   (The one and only Random Forest <- Our third best model<- it is fitted on the same file)
+
+
+
+
+
+
+
+
+
